@@ -19,7 +19,7 @@ const AboutPage = () => {
       bio: "Specializes in training large-scale neural networks"
     },
     {
-      name: "Suchitha Glory",
+      name: "Suchitha",
       role: "Full Stack Developer",
       image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
       bio: "Builds scalable web applications for ML model deployment"
