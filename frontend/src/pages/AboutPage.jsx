@@ -1,25 +1,25 @@
 const AboutPage = () => {
   const teamMembers = [
     {
-      name: "Dr. Sarah Mitchell",
+      name: "Harika Bijju",
       role: "Lead AI Research Scientist",
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
       bio: "PhD in Computer Vision, 10+ years experience in CNN architecture"
     },
     {
-      name: "Michael Chen",
+      name: "Abhilash",
       role: "Senior ML Engineer",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
       bio: "Expert in deep learning optimization and model deployment"
     },
     {
-      name: "Emily Rodriguez",
+      name: "Sai Dutt",
       role: "Data Science Lead",
       image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
       bio: "Specializes in training large-scale neural networks"
     },
     {
-      name: "James Wilson",
+      name: "Suchitha Glory",
       role: "Full Stack Developer",
       image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
       bio: "Builds scalable web applications for ML model deployment"

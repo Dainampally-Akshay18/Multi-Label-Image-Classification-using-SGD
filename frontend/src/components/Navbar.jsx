@@ -31,7 +31,7 @@ const Navbar = () => {
               </svg>
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-700 dark:from-blue-400 dark:to-indigo-500 bg-clip-text text-transparent">
-              Multi Label Image Classification
+              Label Matrix
             </span>
           </Link>
 
